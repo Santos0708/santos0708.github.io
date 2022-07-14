@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1657829249342,
+  "timestamp": 1657829655244,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -22,7 +22,7 @@
         "/polyfills.548776132ea4e545.js",
         "/runtime.9b35aa65ab78c96a.js",
         "/scripts.c9c6a43cee3e1491.js",
-        "/styles.69e8dd29142c5caf.css"
+        "/styles.8d81c89319300349.css"
       ],
       "patterns": []
     },
@@ -855,7 +855,7 @@
     "/common.db4e039f0a2f710e.js": "ebb69adb7199251d7470b592bb54b5fa4f50c9fc",
     "/favicon.ico": "75f8a26340cf9bad78b9bba2235c3a7348be62f2",
     "/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
-    "/index.html": "0f46468de76945930513622b99f6142b001a81e1",
+    "/index.html": "1127ff80b1adb11d7762743f7374afdd4e92035b",
     "/main.53c123c7711304a2.js": "46b7d7c41eadc543e16d04c7732b78e0dcd0f7ac",
     "/manifest.webmanifest": "bde826df7be8f1357efcdf0402d55782a0dba870",
     "/polyfills.548776132ea4e545.js": "98711c12f88f9bfaf6bf8db1aca2976dea4931ca",
@@ -864,7 +864,7 @@
     "/primeicons.76044b1c189cc4d7.svg": "621775b2ec555fd2dd152a24390cf6dfeee168b1",
     "/runtime.9b35aa65ab78c96a.js": "1eb54306642d112e5d14a3356007481695bd0911",
     "/scripts.c9c6a43cee3e1491.js": "83d472e749b2fba10ab24d56ecdec135e4b7732b",
-    "/styles.69e8dd29142c5caf.css": "2694cb729e2e987562fa278a328b9de70e652757"
+    "/styles.8d81c89319300349.css": "d8b10423d85f2891acf5882a36f38f8cee6d5562"
   },
   "navigationUrls": [
     {
